@@ -70,4 +70,3 @@ int main(){
 	exit(0);
 }
 
-//C:/Users/ALFRED/Documents/academics/courses/dsa/codes/ccode

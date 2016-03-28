@@ -128,6 +128,5 @@ void move_disk(char from, char to){
 		exit(0);
 	}
 
-//C:/Users/ALFRED/Documents/academics/courses/dsa/codes/ccode
 
  
